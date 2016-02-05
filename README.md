@@ -13,7 +13,7 @@ Pradeep Kalipatnapu ([prad@berkeley.edu](mailto:prad@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+Checkout the crunch time [demo.] (https://youtu.be/Nxpqz7IhsUo)
 
 ## Screenshots
 
