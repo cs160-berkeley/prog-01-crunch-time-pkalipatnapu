@@ -29,7 +29,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.6174957">
               <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
-              <folding />
+              <folding>
+                <element signature="e#1897#2348#0" expanded="true" />
+                <element signature="e#2347#2348#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1230,7 +1233,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4362810151000" />
+        <entry key="$PROJECT_DIR$" value="4363964562000" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1588,6 +1591,13 @@
       <projects_view />
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/eviltwin/crunchtime/ConvertActivity.java" />
+      </list>
+    </option>
+  </component>
   <component name="NamedScopeManager">
     <order />
   </component>
@@ -1875,7 +1885,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6174957">
           <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
-          <folding />
+          <folding>
+            <element signature="e#1897#2348#0" expanded="true" />
+            <element signature="e#2347#2348#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
