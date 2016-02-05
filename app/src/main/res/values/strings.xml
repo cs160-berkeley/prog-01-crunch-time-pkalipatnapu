@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Crunch Time</string>
+    <string name="action_settings">Settings</string>
+    <string name="default_exercise">Cycling (mins):</string>
+    <string name="weight">Weight (lbs):</string>
+    <string name="default_weight">150</string>
+</resources>
