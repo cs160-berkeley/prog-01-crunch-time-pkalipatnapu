@@ -17,7 +17,13 @@ See [your demo video title here] (https://link_to_your_video)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/default_screen.png" height="400" alt="Crunch Time"/>
+
+<img src="screenshots/simple_entry.png" height="400" alt="Enter exercise amount and see how many calories you burnt."/>
+
+<img src="screenshots/change_weight.png" height="400" alt="Enter you weight for better results."/>
+
+<img src="screenshots/set_calories.png" height="400" alt="Set a calorie goal, and see how much you need to exercise."/>
 
 ## Acknowledgments
 Design Ideas drawn from YouAnimal by Henry Zhang. This was presented in class.
