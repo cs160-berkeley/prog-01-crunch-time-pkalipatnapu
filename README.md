@@ -9,7 +9,7 @@ Crunch Time is an app that calculates the calories burnt from various exercises.
 
 ## Authors
 
-Pradeep Kalipatnapu ([pradl@berkeley.edu](mailto:prad@berkeley.edu))
+Pradeep Kalipatnapu ([prad@berkeley.edu](mailto:prad@berkeley.edu))
 
 ## Demo Video
 
